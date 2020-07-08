@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488307734819",
+    "firebase_url": "https://wallm-43290.firebaseio.com",
+    "project_id": "wallm-43290",
+    "storage_bucket": "wallm-43290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488307734819:android:8073b024f49bb46808b496",
+        "android_client_info": {
+          "package_name": "com.wallm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488307734819-33b0j6104mnq2q4c9bmjm1meq2eprgcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZrnX_EaqTrGbHkBdlbUJ-MffNAlrTL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488307734819-33b0j6104mnq2q4c9bmjm1meq2eprgcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
