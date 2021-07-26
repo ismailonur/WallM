@@ -14,7 +14,7 @@
     "react": "16.9.0",
     "react-native": "0.62.3",
     "react-native-elements": "^1.2.7",
-    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image": "^8.3.0",
     "react-native-firebase": "^5.6.0",
     "react-native-gesture-handler": "^1.5.2",
     "react-native-manage-wallpaper": "^1.1.2",
